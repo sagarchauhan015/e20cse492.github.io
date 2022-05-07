@@ -1,0 +1,56 @@
+.heading{
+    position: relative;
+    left: 42%;
+    display: flex;
+    }
+ 
+    .heading .fa-book{
+        color: rgb(0, 217, 255);
+        margin-top: 13px;
+        
+    }
+
+    .box1{
+        height: 150px;
+        width: 400px;
+        border: solid rgb(174, 172, 172);
+        box-shadow: 5px 10px #888888;
+        margin-left: 200px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+    .box2{
+        height: 150px;
+        width: 400px;
+        border: solid rgb(174, 172, 172);
+        box-shadow: 5px 10px #888888;
+        margin-right: 200px;
+        margin-bottom: 50px;
+    }
+    .box3{
+        height: 150px;
+        width: 400px;
+        border: solid rgb(174, 172, 172);
+        box-shadow: 5px 10px #888888;
+        clear: both;
+        margin-left: 200px;
+        margin-bottom: 50px;
+    }
+    .box4{
+        height: 150px;
+        width: 400px;
+        border: solid rgb(174, 172, 172);
+        box-shadow: 5px 10px #888888;
+        margin-right: 200px;
+    }
+    .box1 .head1, .box2 .head1,.box3 .head1,.box4 .head1{
+        color: rgb(0, 217, 255);
+    }
+    .right-box2, .right-box4{
+    	float:right;
+    }
+    .box1,.box2,.box3,.box4{
+    	padding: 20px;
+    }
+    
+    
